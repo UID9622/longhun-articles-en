@@ -34,14 +34,78 @@ All articles are originally written in Chinese by **UID9622 (Zhuge Xin)** — re
 
 ---
 
+## 🔥 Featured: The Century Lie of Tokens v2.0
+
+**[The Century Lie of Tokens: Multi-Dimensional Dissection & China's Chip Breakthrough](token-century-lie-exposed.md)** — **v2.0 Expanded Edition** (600 lines, +526 from v1.0)
+
+This is the flagship article. It dissects the token economy across seven dimensions — and for every dimension, it presents Longhun's **implemented, running counter-architecture** as the living alternative:
+
+- **Dimension 1 (Rent Economy)** → Local deployment, one-time investment
+- **Dimension 2 (Desk vs House)** → Exobrain engine, semantic drawers, memory eternal protocol
+- **Dimension 3 (Chinese Tax)** → CNSH: Chinese-first architecture, no translation tax
+- **Dimension 4 (Energy Burn)** → Small models, local compute, distributed sovereignty
+- **Dimension 5 (NDA Wall)** → Zero NDA, GPG-sign everything, open constitution
+- **Dimension 6 (Chip Choke)** → DeepSeek efficiency + Ascend super-nodes + price inversion
+- **Dimension 7 (Anxiety Sales)** → Built-in anxiety maker detector
+
+Plus: DNA traceability, 20-persona governance, 4-level circuit breaker, 3-color audit, 10-gate delivery pipeline, 369/Luoshu/I Ching philosophical anchors — all documented as running code.
+
+> ⚠️ Not a critique-only piece. Each dimension includes the engineering answer: protocol names, file paths, test results, architectural diagrams. Verifiable. Open.
+
+---
+
 ## Published Articles (English)
 
-| # | Title | Original | Topics |
-|:---:|------|:---|:---|
-| 1 | [Longhun Heart Method: Return to Source](longhun-heart-method-return-to-source.md) | [中文](../2026-07-04-龍魂心法·归源.md) | Philosophy, Sovereignty, Core Values |
-| 2 | [Sancai Algorithm Elucidation: Vindicating Master Zeng](sancai-algorithm-elucidation.md) | [中文](../三才算法发微_为曾老师正名.md) | Algorithm Foundation, Chinese Philosophy |
-| 3 | [The Century Lie of Tokens: Multi-Dimensional Dissection](token-century-lie-exposed.md) | [中文](../揭开Token的世纪谎言_多维解剖与中国芯片破解法.md) | AI Economics, Chinese Chip Breakthrough |
-| 4 | [Truth of Advance Consumption: Li Fire Awakening](truth-of-advance-consumption.md) | [中文](../2026-07-05-提前消费的真相-离火运觉醒.md) | Consumer Awareness, Moral Traps |
+### Core Philosophy
+
+| # | Title | Category |
+|:---:|------|:---|
+| 1 | [Longhun Heart Method: Return to Source](longhun-heart-method-return-to-source.md) | Philosophy |
+| 2 | [Sancai Algorithm Elucidation: Vindicating Master Zeng](sancai-algorithm-elucidation.md) | Paper |
+
+### Indictments of the Tech Industry
+
+| # | Title | Category |
+|:---:|------|:---|
+| 3 | [The Century Lie of Tokens](token-century-lie-exposed.md) | Indictment |
+| 4 | [When We Use Tools — Who Uses Whom?](critiques/when-we-use-tools-who-uses-whom.md) | Indictment |
+| 5 | [Anti-Fraud: The Programming Harvest Trap](critiques/anti-fraud-the-programming-harvest-trap.md) | Indictment |
+| 6 | [Anxiety Maker Detector](critiques/anxiety-maker-detector.md) | Indictment |
+| 7 | [The Lazy Prison — Executive Summary](critiques/the-lazy-prison-executive-summary.md) | Indictment |
+| 8 | [Truth of Advance Consumption](truth-of-advance-consumption.md) | Indictment |
+| 9 | [Truth of Advance Consumption: Li Fire Awakening](critiques/truth-of-advance-consumption-li-fire-awakening.md) | Indictment |
+
+### Papers
+
+| # | Title | Category |
+|:---:|------|:---|
+| 10 | [Flexibility and Principles: No Bottom Line, No Meaning](papers/flexibility-and-principles-no-bottom-line-no-meaning.md) | Paper |
+
+### Manifestos
+
+| # | Title | Category |
+|:---:|------|:---|
+| 11 | [Constitution of the Longhun System](manifestos/constitution-of-the-longhun-system.md) | Manifesto |
+| 12 | [Chinese Digital Sovereignty & Spiritual Roots](manifestos/chinese-digital-sovereignty-and-spiritual-roots.md) | Manifesto |
+| 13 | [Open Source Manifesto](manifestos/open-source-manifesto.md) | Manifesto |
+
+### Protocols
+
+| # | Title | Category |
+|:---:|------|:---|
+| 14 | [Privacy Whitepaper — Executive Summary](protocols/privacy-whitepaper-summary.md) | Protocol |
+| 15 | [Creator Protection Protocol](protocols/creator-protection-protocol.md) | Protocol |
+| 16 | [Statement of Originality & Attribution](protocols/originality-declaration-protocol.md) | Protocol |
+| 17 | [AI Access Mandate](protocols/ai-access-mandate.md) | Protocol |
+| 18 | [Eye of God: 64-Hexagram Audit Engine](protocols/eye-of-god-64-hexagram-audit.md) | Protocol |
+| 19 | [Digital Battlefield Iron Rules](protocols/digital-battlefield-iron-rules.md) | Protocol |
+
+### Field Notes
+
+| # | Title | Category |
+|:---:|------|:---|
+| 20 | [Dreams in the Trench: Code with Military Soul](critiques/dreams-in-the-trench-code-with-military-soul.md) | Field Notes |
+| 21 | [Truth of Advance Consumption: Consumer Awareness](truth-of-advance-consumption.md) | Public Awareness |
 
 ---
 
