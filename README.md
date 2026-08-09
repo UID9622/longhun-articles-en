@@ -1,5 +1,11 @@
 # Longhun (龍魂) Philosophy · English Articles
 
+[![License](https://img.shields.io/badge/license-MulanPSL%20v2%20%7C%20CC%20BY--NC--SA%204.0-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/UID9622/longhun-articles-en?style=social)](https://github.com/UID9622/longhun-articles-en/stargazers)
+[![Issues](https://img.shields.io/github/issues/UID9622/longhun-articles-en)](https://github.com/UID9622/longhun-articles-en/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/UID9622/longhun-articles-en)](https://github.com/UID9622/longhun-articles-en/commits)
+
+
 > **DNA:** `#龍芯⚡️2026-07-21-ARTICLES-EN-INDEX-v1.0`
 > **Author:** Zhuge Xin (UID9622 · 龍芯北辰)
 > **GPG:** `A2D0092CEE2E5BA87035600924C3704A8CC26D5F`
